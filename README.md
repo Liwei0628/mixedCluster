@@ -66,7 +66,7 @@ clus_data = gnrt_data(K, N0, lam)
 ```
 
 #### 2. SA-WC clustering algorithm
-We can implement the ***SA-WC*** method for simulated mixed-type distribution data using the function `saWC`, as follows
+We can implement the ***SA-WC*** method for simulated mixed-type distribution data using the `saWC` function, as follows
 
 ```R
 # Extract samples for clustering from the generated data
@@ -88,7 +88,7 @@ res_SAWC$num_itr     # Number of iterations until convergence
 ```
 
 #### 3. DBI-WC clustering algorithm
-We can implement the ***DBI-WC*** methodfor simulated mixed-type distribution data using the function `dbiWC`, as follows
+We can implement the ***DBI-WC*** methodfor simulated mixed-type distribution data using the `dbiWC` function, as follows
 
 ```R
 # Extract samples for clustering from the generated data
