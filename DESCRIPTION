@@ -1,0 +1,16 @@
+Package: mixedCluster
+Type: Package
+Title: DBI-WC Clustering Algorithm for mixed-type distribution data
+Version: 0.1.0
+Author: Liwei Lin
+Maintainer: Liwei Lin <llw_0628xxx@ruc.edu.cn>
+Description: In this R package, we implement two clustering algorithms, namely DBI-WC and SA-WC, tailored for mixed-type distribution data. DBI-WC employs a modified Davies-Bouldin Index (DBI) to construct a DBI-weighted Wasserstein distance metric, extending the traditional Wasserstein distance. Combined with a robust initialization strategy, DBI-WC achieves strong performance on mixed-type distribution data. SA-WC algorithm is a simplified version of DBI-WC. SA-WC uses a straightforward weighting scheme to integrate various distribution data. All other specifications are consistent with those of DBI-WC.
+License: GPL (>= 3)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+LazyData: true
+Imports: Rcpp (>= 1.0.13), transport
+LinkingTo: Rcpp, RcppArmadillo
+Suggests: SpectralClMixed, kamila, aricode, dplyr, statip
+Depends: stats
+RoxygenNote: 7.2.1
