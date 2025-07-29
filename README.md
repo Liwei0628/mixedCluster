@@ -88,7 +88,7 @@ res_SAWC$num_itr     # Number of iterations until convergence
 ```
 
 #### 3. DBI-WC clustering algorithm
-We can implement the ***DBI-WC*** methodfor simulated mixed-type distribution data using the function `saWC`, as follows
+We can implement the ***DBI-WC*** methodfor simulated mixed-type distribution data using the function `dbiWC`, as follows
 
 ```R
 # Extract samples for clustering from the generated data
