@@ -9,7 +9,7 @@ License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 LazyData: true
-Imports: Rcpp (>= 1.0.13), transport
+Imports: Rcpp, transport
 LinkingTo: Rcpp, RcppArmadillo
 Suggests: SpectralClMixed, kamila, aricode, dplyr, statip
 Depends: stats
