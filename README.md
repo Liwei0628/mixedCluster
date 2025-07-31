@@ -112,4 +112,4 @@ res_DBIWC$num_itr     # Number of iterations until convergence
 
 
 ## References
-Lin, L., Chen, Y., Li, H., Li, Y., & Wang, F. <sup>*</sup> (2025+). Clustering Taxi Service Patterns Using a DBI-Weighted Wasserstein Distance for Mixed-Type Distribution Data. Submitted.
+Lin, L., Chen, Y., Li, H., Li, Y., & Wang, F.* (2025+). Clustering Taxi Service Patterns Using a DBI-Weighted Wasserstein Distance for Mixed-Type Distribution Data. Submitted.
