@@ -109,3 +109,7 @@ res_DBIWC$weight      # Distance weights for each variable
 # res_DBIWC$center    # Final cluster centers
 res_DBIWC$num_itr     # Number of iterations until convergence
 ```
+
+
+## References
+Lin, L., Chen, Y., Li, H., Li, Y., & Wang, F. <sup>*</sup> (2025+). Clustering Taxi Service Patterns Using a DBI-Weighted Wasserstein Distance for Mixed-Type Distribution Data. Submitted.
